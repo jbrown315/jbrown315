@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jbrown315
+- 🌱 I’m currently learning Computer Science at Rose-Hulman Institute of Technology
+- 📫 How to reach me: josh.brown.3155@gmail.com
